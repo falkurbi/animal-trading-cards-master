@@ -1,0 +1,19 @@
+/*Style the card.*/
+.container{border-radius: 30px; box-shadow: 10px 5px 5px rgb(173, 113, 113); 
+    background-color: blanchedalmond; padding: 5px; border: 2px solid black; 
+    width: 320px; display: flex; flex-wrap: wrap;}
+    
+/*Style the name and picture box.*/
+.picture{padding: 2px; margin: auto;}
+img{margin: auto; border: 2px solid black;}
+
+/*Style the information box.*/
+.box{border: 1px solid black; width: 296px;
+     margin: auto; padding: 3px; border-radius: 30px; font-size: 13pt;}
+#italic{font-style: italic;}
+li{list-style: none;}
+
+
+
+
+
